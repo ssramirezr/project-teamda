@@ -1,5 +1,5 @@
 ## First and Follow Set Calculator <br>
-This project was created by David Ramírez and Ana Sofía Alfonso.    A Python project to compute the First and Follow sets of a specific grammar.
+This project was created by David Alejandro Ramírez Agudelo and Ana Sofía Alfonso Moncada.    A Python project to compute the First and Follow sets of a specific grammar.
 
 # Table of Contents
 - Introduction
